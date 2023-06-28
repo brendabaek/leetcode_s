@@ -10,12 +10,11 @@ class Solution(object):
         if numRows < 1 : return None
         else :
             ans = []
-            preRow = [1]    
+            preRow = [1]
             for i in range(numRows) :
-                for j in range(i+1) :
-                    if j == 0 :
-                        newRow = [1]
-                    elif j < i :
+                newRow = [1]
+                for j in range(1, i+1) :
+                    if j < i :
                         sums = preRow[j-1] + preRow[j]
                         newRow.append(sums)
                     elif j == i :
