@@ -1,6 +1,6 @@
-## https://leetcode.com/problems/delete-duplicate-emails/
+-- ## https://leetcode.com/problems/delete-duplicate-emails/
 
-# Write your MySQL query statement below
+-- # Write your MySQL query statement below
 
 delete
   from Person
