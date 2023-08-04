@@ -7,6 +7,14 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
+
+        ans = []
+        for n1 in nums1 :
+            if n1 not in ans and n1 in nums2 :
+                ans.append(n1)     
+        return ans
+    
+
         ans = []
         for n1 in nums1 :
             if n1 not in ans :

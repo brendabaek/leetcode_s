@@ -30,14 +30,6 @@ class Solution(object):
         if ans == '' : ans = s[0]
         return ans
 
-
-
-class Solution(object):
-    def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
         ln = len(s)
         if ln < 2 : return s
 
