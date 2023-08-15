@@ -9,4 +9,3 @@ class Solution(object):
         """
         try : return nums.index(target)
         except : return -1
-        

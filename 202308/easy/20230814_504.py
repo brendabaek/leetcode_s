@@ -10,7 +10,6 @@ class Solution(object):
         elif num < 0 : ans = '-'
         else : return "0"
         num = abs(num)
-
         cnt = 0
         while (7 ** cnt) <= num : cnt += 1
         while cnt > 0 :

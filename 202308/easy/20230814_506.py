@@ -14,5 +14,4 @@ class Solution(object):
             elif tmp == 1 : ans.append("Silver Medal")
             elif tmp == 2 : ans.append("Bronze Medal")
             else : ans.append(str(tmp+1))
-        
         return ans
