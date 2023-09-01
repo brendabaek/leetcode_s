@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/minimum-path-sum/description/
+## https://leetcode.com/problems/minimum-path-sum/
 
 class Solution(object):
     def minPathSum(self, grid):

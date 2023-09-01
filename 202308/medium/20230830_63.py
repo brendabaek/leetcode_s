@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/unique-paths-ii/description/
+## https://leetcode.com/problems/unique-paths-ii/
 
 class Solution(object):
     def uniquePathsWithObstacles(self, obstacleGrid):

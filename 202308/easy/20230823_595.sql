@@ -1,4 +1,4 @@
--- https://leetcode.com/problems/big-countries/submissions/
+-- https://leetcode.com/problems/big-countries/
 
 -- # Write your MySQL query statement below
 

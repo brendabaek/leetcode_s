@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
+## https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 
 # Definition for a binary tree node.
 # class TreeNode(object):

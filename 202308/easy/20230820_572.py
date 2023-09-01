@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/subtree-of-another-tree/submissions/
+## https://leetcode.com/problems/subtree-of-another-tree/
 
 # Definition for a binary tree node.
 # class TreeNode(object):

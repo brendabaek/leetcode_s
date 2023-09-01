@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/reverse-string-ii/description/
+## https://leetcode.com/problems/reverse-string-ii/
 
 class Solution(object):
     def reverseStr(self, s, k):
