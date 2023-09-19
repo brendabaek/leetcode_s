@@ -20,4 +20,3 @@ class Solution(object):
                 idx1 += 1
                 idx2 -= 1
         return s
-    
