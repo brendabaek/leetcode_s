@@ -7,4 +7,3 @@ class Solution:
             try : dics[a] += 1
             except : dics[a] = 1
         return max(dics, key=dics.get)
-    

@@ -9,4 +9,3 @@ class Solution:
             p *= num
             n = n // 10
         return p - s
-    
