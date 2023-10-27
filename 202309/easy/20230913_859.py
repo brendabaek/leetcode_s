@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/buddy-strings/description/
+## https://leetcode.com/problems/buddy-strings/
 
 class Solution(object):
     def buddyStrings(self, s, goal):

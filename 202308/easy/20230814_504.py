@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/base-7/description/
+## https://leetcode.com/problems/base-7/
 
 class Solution(object):
     def convertToBase7(self, num):
