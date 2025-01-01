@@ -7,4 +7,4 @@ class Solution:
         while w in sequence :
             cnt += 1
             w = w + word
-        return cnt
+        return cnt 
