@@ -1,4 +1,4 @@
--- https://leetcode.com/problems/find-books-with-no-available-copies/description/
+-- https://leetcode.com/problems/find-books-with-no-available-copies/
 
 -- # Write your MySQL query statement below
 

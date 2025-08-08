@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/generate-tag-for-video-caption/description/
+## https://leetcode.com/problems/generate-tag-for-video-caption/
 
 class Solution:
     def generateTag(self, caption: str) -> str:
