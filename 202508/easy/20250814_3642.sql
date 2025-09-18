@@ -1,6 +1,6 @@
 -- https://leetcode.com/problems/find-books-with-polarized-opinions/
 
---# Write your MySQL query statement below
+-- # Write your MySQL query statement below
 
 select books.*, rating_spread, polarization_score
 from books

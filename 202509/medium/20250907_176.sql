@@ -1,6 +1,6 @@
 -- https://leetcode.com/problems/second-highest-salary/
 
---# Write your MySQL query statement below
+-- # Write your MySQL query statement below
 select (
     select distinct salary
     from Employee
