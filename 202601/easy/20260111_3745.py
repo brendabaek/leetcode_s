@@ -1,4 +1,4 @@
-## https://leetcode.com/problems/maximize-expression-of-three-elements/description/
+## https://leetcode.com/problems/maximize-expression-of-three-elements/
 
 class Solution:
     def maximizeExpressionOfThree(self, nums: List[int]) -> int:
